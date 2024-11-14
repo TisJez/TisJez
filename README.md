@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TisJez
 - 👀 I’m interested in astrophysics
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Java & C/C++
 - 📫 How to reach me https://www.linkedin.com/in/jez-p/
 - 😄 Pronouns: He/Him
+- Advanced in coding python simulations for scientific research
   Durham Grad in Phys & Astro, taught and supervised on black hole simulations by the great NASA researcher Prof Chris Done herself!
   All my computing work from my Masters days are under this account!
 
