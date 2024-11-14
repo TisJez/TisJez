@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TisJez
-- 👀 I’m interested in astrophysics
+- 👀 I’m interested in astrophysics, data science
 - 🌱 I’m currently learning Java & C/C++
 - 📫 How to reach me https://www.linkedin.com/in/jez-p/
 - 😄 Pronouns: He/Him
